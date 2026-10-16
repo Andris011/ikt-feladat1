@@ -38,7 +38,7 @@
 
 ``` py
     while True
-        print("Hiányzik az anyukám)
+        print("Hiányzik az anyukám")
 ```
 
 ### Fontos jelentőséggel bíró lista:
